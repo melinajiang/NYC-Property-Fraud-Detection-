@@ -1,5 +1,5 @@
 # NYC-Property-Fraud-Detection
-Exam 1M records and build model to discern potential property good.
+Exam 1M records and build model to discern potential property fraud.
 
 • Generated 45 features from 1M records and employed Principal Component Analysis (PCA) to reduce dimensionality of
 variables from 45 to 6, with 90% variance remaining
